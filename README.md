@@ -1,4 +1,4 @@
-### Hi there 👋 my name in Luis. I'm a Java developer since 2018
+### Hi there 👋 my name is Luis. I'm a Java developer since 2018
 - 🔭 I’m currently working on personal java projects
 - 🌱 I’m currently learning spring boot, jakarta, javascript, react and english.
 - 👯 I’m looking to collaborate on an open source java project where i can learn new things.
